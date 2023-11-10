@@ -3,4 +3,5 @@ let counter = 0;
 
 setInterval(() => {
   counter += 1;
+  number.innerHTML = counter + "%";
 })
