@@ -26,3 +26,10 @@ body {
   border-radius: 50%;
   border: 1px solid red;
 }
+
+.inner {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  border: 1px solid red;
+}
